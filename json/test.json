@@ -1,0 +1,46 @@
+{
+    "__instance_type__": [null, "MyTestCls"], 
+    "attributes": 
+    {
+        "npmarray": {
+            "__ndarray__": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9]], 
+            "dtype": "int32", 
+            "shape": [2, 5], 
+            "Corder": true
+        },
+        "datatime": {
+            "__datetime__": null, 
+            "year": 2017, 
+            "month": 1, 
+            "day": 19, 
+            "hour": 23
+        }, 
+        "complex": {
+            "__complex__": [1.0, 2.0]
+        }, 
+        "decimal": {
+            "__decimal__": "42"
+        }, 
+        "fraction": {
+            "__fraction__": true, 
+            "numerator": 1, 
+            "denominator": 3
+        }, 
+        "myclass" : {
+            "__instance_type__": [null, "MyTestCls"], 
+            "attributes": 
+            {
+                "name": "whoisit", 
+                "dct": 
+                {
+                    "first": 7,
+                    "another": 7,
+                    "who": 7
+                }
+            }
+        }, 
+        "set": {
+            "__set__": [0, 1, 2, 3, 4, 5, 6]
+        }
+    }
+}
